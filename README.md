@@ -2,7 +2,7 @@
 
 I'm a **Computer Science Student** with a strong focus on **Software Engineering**. I bridge the gap between AI research and production-grade systems, focusing on performance, strict typing, and containerized architectures.
 
-Currently looking to collaborate on **Open Source** projects involving **Vector Databases (RAG)**, **Audio Processing**, and **Python Tooling**.
+Currently looking to collaborate on **Open Source** projects involving **Vector Databases (RAG)**, **Audio/Video Processing**, and **Python Tooling**.
 
 ---
 
