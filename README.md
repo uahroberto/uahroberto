@@ -26,8 +26,9 @@ Unlike simple text-wrappers, this project is engineered for depth and reliabilit
 ## 🌱 Open Source Contributions
 
 I believe in improving the tools I use daily.
-* **qdrant/qdrant-client:** Active community member. Assisting with Python 3.12 strict typing integration and `PointStruct` payload optimizations.
 
+* **qdrant/qdrant-client:** Active community member. Assisting with Python 3.12 strict typing integration and `PointStruct` payload optimizations.
+* **SYSTRAN/faster-whisper:** Providing architectural advice on **production scaling**, specifically regarding concurrency patterns (Producer-Consumer queues) and GPU resource management.
 ## ⚡ GitHub Stats
 
 <div align="center">
