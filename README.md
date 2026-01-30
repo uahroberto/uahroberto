@@ -29,6 +29,7 @@ I believe in improving the tools I use daily.
 
 * **qdrant/qdrant-client:** Active community member. Assisting with Python 3.12 strict typing integration and `PointStruct` payload optimizations.
 * **SYSTRAN/faster-whisper:** Providing architectural advice on **production scaling**, specifically regarding concurrency patterns (Producer-Consumer queues) and GPU resource management.
+* **roboflow/supervision:** Contributing to the **strict typing migration**, refactoring core modules (`metrics`) to align with Python 3.12 signature standards and removing legacy docstring redundancies.
 ## ⚡ GitHub Stats
 
 <div align="center">
