@@ -1,52 +1,34 @@
-### Hi there 👋, I'm Roberto
+# Hi there 👋, I'm Roberto
 
-I'm a **Computer Science Student** with a strong focus on **Software Engineering**. I bridge the gap between AI research and production-grade systems, focusing on performance, strict typing, and containerized architectures.
+I'm a **Computer Science Student** specializing in **Software Engineering for AI**. I bridge the gap between research models and production-grade systems, focusing on **Multimodal RAG**, performance optimization, and strict architectural standards.
 
-Currently looking to collaborate on **Open Source** projects involving **Vector Databases (RAG)**, **Audio/Video Processing**, and **Python Tooling**.
+Currently looking to collaborate on **Open Source** projects involving **Vector Databases**, **Computer Vision**, and **Audio Intelligence**.
 
----
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
+* **Core & Backend:** Python 3.12 (Strict Typing), Docker, FastAPI/Streamlit.
+* **AI & Data:** OpenAI, Faster-Whisper, **RapidOCR**, Sentence-Transformers.
+* **Vector Search:** **Qdrant** (Hybrid Search: Dense + Sparse).
+* **Quality & DevOps:** Mypy, Ruff, Pre-commit hooks, GitHub Actions.
 
-**Core & Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🔭 Featured Project
 
-**AI & Data**
-![Qdrant](https://img.shields.io/badge/Qdrant-DO3344?style=for-the-badge&logo=qdrant&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 📼 [Video RAG Pro](https://github.com/uahroberto/video-rag-pro)
 
-**Quality & DevOps**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Mypy](https://img.shields.io/badge/mypy-checked-blue?style=for-the-badge)
-![Ruff](https://img.shields.io/badge/Ruff-Linting-black?style=for-the-badge)
+A **Multimodal AI Engine** that enables users to "chat" with video content by analyzing both **audio speech** and **visual screen context** (OCR).
 
----
+Unlike simple text-wrappers, this project is engineered for depth and reliability:
+* **👁️ Visual RAG:** Implements an OCR pipeline to "read" code and slides from video frames, capturing context that is shown but not spoken.
+* **🧠 Hybrid Search:** Uses **Qdrant** to combine semantic embeddings with keyword search (BM25) for precise technical retrieval.
+* **⚡ Performance:** Achieved **0.14 RTF** on CPU using custom int8 quantization.
+* **🛡️ Engineering:** Fully Dockerized ETL pipeline with strict type safety guarantees.
 
-### 🔭 Featured Project
-
-#### 📼 [Video RAG Pro](https://github.com/uahroberto/video-rag-pro)
-*An AI-powered engine that transforms passive video consumption into an interactive knowledge retrieval experience.*
-
-Unlike simple wrappers, this project is engineered for **performance** and **reliability**:
-* **Performance:** Achieved **0.14 Real-Time Factor (RTF)** on CPU using optimized `faster-whisper` quantization.
-* **Architecture:** Modular ETL pipeline fully Dockerized.
-* **Quality Gates:** strictly typed (`mypy`) and linted (`ruff`) codebase with CI/CD hooks.
-* **Stack:** Python 3.12, Qdrant, OpenAI, Streamlit.
-
----
-
-### 🌱 Open Source Contributions
+## 🌱 Open Source Contributions
 
 I believe in improving the tools I use daily.
+* **qdrant/qdrant-client:** Active community member. Assisting with Python 3.12 strict typing integration and `PointStruct` payload optimizations.
 
-* **[qdrant/qdrant-client](https://github.com/qdrant/qdrant-client):** Active in community support. Helping verify and resolve integration issues regarding `PointStruct` usage and strict typing in Python 3.12 environments.
-
----
-
-### ⚡ GitHub Stats
+## ⚡ GitHub Stats
 
 <div align="center">
 <a href="https://github.com/uahroberto">
