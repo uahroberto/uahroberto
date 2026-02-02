@@ -1,8 +1,10 @@
 # Hi there 👋, I'm Roberto
 
-I'm a **Computer Science Student** specializing in **Software Engineering for AI**. I bridge the gap between research models and production-grade systems, focusing on **Multimodal RAG**, performance optimization, and strict architectural standards.
+Computer Science Student & AI Software Engineer.
 
-Currently looking to collaborate on **Open Source** projects involving **Vector Databases**, **Computer Vision**, and **Audio Intelligence**.
+I focus on building robust, production-ready systems. I prioritize clean architecture, strict type safety, and performance optimization to create maintainable software.
+
+🔭 Active Open Source Contributor developing features and ensuring engineering best practices in Computer Vision and Audio Intelligence ecosystems.
 
 ## 🛠️ Tech Stack
 
@@ -27,9 +29,9 @@ Unlike simple text-wrappers, this project is engineered for depth and reliabilit
 
 I believe in improving the tools I use daily.
 
-* **qdrant/qdrant-client:** Active community member. Assisting with Python 3.12 strict typing integration and `PointStruct` payload optimizations.
-* **SYSTRAN/faster-whisper:** Providing architectural advice on **production scaling**, specifically regarding concurrency patterns (Producer-Consumer queues) and GPU resource management.
-* **roboflow/supervision:** Contributing to the **strict typing migration**, refactoring core modules (`metrics`) to align with Python 3.12 signature standards and removing legacy docstring redundancies.
+* **roboflow/supervision:** Contributing to the **strict typing migration** and modernizing the codebase. Refactored core modules (`metrics`) to enforce type safety and remove redundancy, aligning the library with production-grade standards.
+* **qdrant/qdrant-client:** Improving **Developer Experience (DX)** by clarifying strict typing patterns and `PointStruct` usage in documentation, reducing integration friction for gRPC/HTTP users.
+* **SYSTRAN/faster-whisper:** Engaging in architectural discussions regarding **production scaling**, concurrency patterns (Producer-Consumer), and GPU resource management.
 ## ⚡ GitHub Stats
 
 <div align="center">
