@@ -4,7 +4,7 @@ Computer Science Student & AI Software Engineer.
 
 I focus on building robust, production-ready systems. I prioritize clean architecture, strict type safety, and performance optimization to create maintainable software.
 
-🔭 Active Open Source Contributor developing features and ensuring engineering best practices in Computer Vision and Audio Intelligence ecosystems.
+Active Open Source Contributor developing features and ensuring engineering best practices.
 
 ## 🔭 Featured Project
 
