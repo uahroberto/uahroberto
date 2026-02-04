@@ -23,9 +23,8 @@ Unlike simple text-wrappers, this project is engineered for depth and reliabilit
 
 * **[roboflow/supervision](https://github.com/roboflow/supervision)**: Led the **strict typing migration** for the `metrics` module (+700 lines refactored) and ensured full compatibility with **NumPy 2.0**. Refactored core calculation logic in `MeanAveragePrecision` to align the library with production-grade engineering standards.
 * **[qdrant/qdrant-client](https://github.com/qdrant/qdrant-client)**: Enhanced **Developer Experience (DX)** by standardizing type hints across the client interface, streamlining hybrid search (Dense + Sparse) integration for gRPC and HTTP users.
-* **[SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper)**: Contributor in architectural discussions regarding **production scaling** and high-concurrency patterns.
-
-
+* **[SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper)**: Proposing architectural patterns for **Dynamic Batching** and request queuing to solve latency bottlenecks in high-concurrency GPU environments.
+* **[pyDeprecate](https://github.com/AndreiFahm/pyDeprecate)**: Contributed to core design discussions on **decorator deprecation lifecycles**, advocating for "Fail Fast" import-time warnings to prevent silent technical debt in production systems.
 ## 🛠️ Tech Stack
 
 * **Core & Backend:** Python 3.12 (Strict Typing), Docker, FastAPI/Streamlit.
