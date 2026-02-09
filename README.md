@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Roberto
 
-Computer Science Student & AI Software Engineer.
+ Software Engineer & Computer Science Student
 
 I focus on building robust, production-ready systems. I prioritize clean architecture, strict type safety, and performance optimization to create maintainable software.
 
