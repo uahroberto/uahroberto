@@ -33,19 +33,3 @@ Unlike simple text-wrappers, this project is engineered for depth and reliabilit
 * **Quality & DevOps:** Mypy, Ruff, Pre-commit hooks, GitHub Actions.
 
 
-## ⚡ GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/uahroberto">
-    <img 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=uahroberto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-      alt="Roberto's GitHub Stats"
-    />
-    <img 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=uahroberto&layout=compact&theme=radical"
-      alt="Roberto's Top Languages"
-    />
-  </a>
-</div>
