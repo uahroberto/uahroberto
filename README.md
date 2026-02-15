@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Roberto
 
- Software Engineer & Computer Science Student
+Software Engineer | Systems Architecture | Open Source
 
-I focus on building robust, production-ready systems. I prioritize clean architecture, strict type safety, and performance optimization to create maintainable software.
+Architecting reliable software systems through rigorous engineering.
 
-Active Open Source Contributor developing features and ensuring engineering best practices.
+Active Open Source Contributor developing features and ensuring engineering best practices. Implementing clean architecture, performance optimization, and strict testing to ensure long-term maintainability and system reliability.
 
 ## 🔭 Featured Project
 
