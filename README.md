@@ -2,9 +2,7 @@
 
 **Software Engineer | Systems Architecture | Open Source**
 
-Architecting reliable software systems through rigorous engineering.
-
-Active Open Source Contributor developing features and ensuring engineering best practices. Implementing clean architecture, performance optimization, and strict testing to ensure long-term maintainability and system reliability.
+Architecting reliable software systems through rigorous engineering. Implementing clean architecture, performance optimization, and strict testing to ensure long-term maintainability and system reliability.
 
 ## 🔭 Featured Project
 
