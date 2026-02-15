@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Roberto
 
-Software Engineer | Systems Architecture | Open Source
+**Software Engineer | Systems Architecture | Open Source**
 
 Architecting reliable software systems through rigorous engineering.
 
